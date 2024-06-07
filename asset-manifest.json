@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/ToDos-List-with-React/static/css/main.732ae6cc.css",
-    "main.js": "/ToDos-List-with-React/static/js/main.763e78f7.js",
+    "main.css": "/ToDos-List-with-React/static/css/main.46eb1149.css",
+    "main.js": "/ToDos-List-with-React/static/js/main.ca148b59.js",
+    "static/media/edit.svg": "/ToDos-List-with-React/static/media/edit.8953edde51e991cf0504bb422d57683a.svg",
     "index.html": "/ToDos-List-with-React/index.html",
     "static/media/delete.svg": "/ToDos-List-with-React/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
     "static/media/check.svg": "/ToDos-List-with-React/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
     "static/media/Search.svg": "/ToDos-List-with-React/static/media/Search.f29a87266833fe0f7df618561733a21f.svg",
-    "main.732ae6cc.css.map": "/ToDos-List-with-React/static/css/main.732ae6cc.css.map",
-    "main.763e78f7.js.map": "/ToDos-List-with-React/static/js/main.763e78f7.js.map"
+    "main.46eb1149.css.map": "/ToDos-List-with-React/static/css/main.46eb1149.css.map",
+    "main.ca148b59.js.map": "/ToDos-List-with-React/static/js/main.ca148b59.js.map"
   },
   "entrypoints": [
-    "static/css/main.732ae6cc.css",
-    "static/js/main.763e78f7.js"
+    "static/css/main.46eb1149.css",
+    "static/js/main.ca148b59.js"
   ]
 }
